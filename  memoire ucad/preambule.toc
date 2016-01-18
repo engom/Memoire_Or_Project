@@ -1,0 +1,34 @@
+\select@language {french}
+\contentsline {starchapter}{D\'edicaces}{i}{chapter*.1}
+\contentsline {starchapter}{Remerciements}{ii}{chapter*.2}
+\contentsline {starchapter}{R\'esum\'e}{iii}{chapter*.3}
+\contentsline {starchapter}{Abstract}{iv}{chapter*.4}
+\contentsline {starchapter}{Introduction g\'en\'erale}{1}{chapter*.6}
+\contentsline {chapter}{\numberline {1}Les m\'ethodes de r\'esolution exactes et heuristiques}{2}{chapter.1}
+\contentsline {section}{\numberline {1.1}Introduction}{2}{section.1.1}
+\contentsline {section}{\numberline {1.2}Notions de compl\'exit\'e}{2}{section.1.2}
+\contentsline {section}{\numberline {1.3}Les m\'ethodes exactes}{3}{section.1.3}
+\contentsline {subsection}{\numberline {1.3.1}La m\'ethode du Simplexe}{3}{subsection.1.3.1}
+\contentsline {subsection}{\numberline {1.3.2}La M\'ethode de S\'eparation et d'Evauation}{4}{subsection.1.3.2}
+\contentsline {subsection}{\numberline {1.3.3}Methode des coupes planes ou cutting planes m\'ethod}{5}{subsection.1.3.3}
+\contentsline {section}{\numberline {1.4}Les heuristiques}{6}{section.1.4}
+\contentsline {section}{\numberline {1.5}Limites}{6}{section.1.5}
+\contentsline {section}{\numberline {1.6}Conclusion}{6}{section.1.6}
+\contentsline {chapter}{\numberline {2}Les m\'etaheuristiques}{7}{chapter.2}
+\contentsline {subsection}{\numberline {2.0.1}Introduction}{7}{subsection.2.0.1}
+\contentsline {subsection}{\numberline {2.0.2}M\'ethodes \`a base de populations}{7}{subsection.2.0.2}
+\contentsline {subsubsection}{Colonies des fourmis}{7}{section*.7}
+\contentsline {subsubsection}{Les algo-g\'en\'etiques}{7}{section*.8}
+\contentsline {subsection}{\numberline {2.0.3}Methodes simples}{7}{subsection.2.0.3}
+\contentsline {subsubsection}{Recuit simil\'e}{7}{section*.9}
+\contentsline {subsubsection}{Metroplis}{7}{section*.10}
+\contentsline {subsection}{\numberline {2.0.4}conclusion}{7}{subsection.2.0.4}
+\contentsline {chapter}{\numberline {3}Exemples pratiques d'applications}{8}{chapter.3}
+\contentsline {subsection}{\numberline {3.0.5}Introduction}{8}{subsection.3.0.5}
+\contentsline {subsection}{\numberline {3.0.6}Example 1}{8}{subsection.3.0.6}
+\contentsline {subsection}{\numberline {3.0.7}Example 2}{8}{subsection.3.0.7}
+\contentsline {subsection}{\numberline {3.0.8}Example 3}{8}{subsection.3.0.8}
+\contentsline {subsection}{\numberline {3.0.9}conclusion}{8}{subsection.3.0.9}
+\contentsline {starchapter}{Conclusion}{9}{chapter*.11}
+\contentsline {chapter}{References}{10}{chapter*.12}
+\contentsline {starchapter}{Bibliographie}{10}{chapter*.12}

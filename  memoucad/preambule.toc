@@ -1,0 +1,40 @@
+\select@language {french}
+\contentsline {starchapter}{D\'edicaces}{i}{chapter*.1}
+\contentsline {starchapter}{Remerciements}{ii}{chapter*.2}
+\contentsline {starchapter}{R\'esum\'e}{iii}{chapter*.3}
+\contentsline {starchapter}{Abstract}{iv}{chapter*.4}
+\contentsline {starchapter}{Introduction g\'en\'erale}{1}{chapter*.8}
+\contentsline {chapter}{\numberline {1}Les m\'ethodes de r\'esolution exactes et heuristiques}{3}{chapter.1}
+\contentsline {section}{\numberline {1.1}Introduction}{3}{section.1.1}
+\contentsline {section}{\numberline {1.2}Notions de compl\'exit\'e}{3}{section.1.2}
+\contentsline {section}{\numberline {1.3}Les m\'ethodes exactes}{4}{section.1.3}
+\contentsline {subsection}{\numberline {1.3.1}La m\'ethode du Simplexe}{4}{subsection.1.3.1}
+\contentsline {subsection}{\numberline {1.3.2}La M\'ethode de S\'eparation et d'Evaluation}{5}{subsection.1.3.2}
+\contentsline {subsection}{\numberline {1.3.3}Methode des coupes planes (cutting planes m\'ethod)}{6}{subsection.1.3.3}
+\contentsline {subsection}{\numberline {1.3.4}La m\'ethode de Branch \& Cut}{7}{subsection.1.3.4}
+\contentsline {section}{\numberline {1.4}Les heuristiques}{12}{section.1.4}
+\contentsline {subsection}{\numberline {1.4.1}La descente recursive (recherche locale)}{12}{subsection.1.4.1}
+\contentsline {section}{\numberline {1.5}Conclusion}{13}{section.1.5}
+\contentsline {chapter}{\numberline {2}Les m\'etaheuristiques}{14}{chapter.2}
+\contentsline {section}{\numberline {2.1}Introduction}{14}{section.2.1}
+\contentsline {subsection}{\numberline {2.1.1}D\'efinitions}{14}{subsection.2.1.1}
+\contentsline {subsection}{\numberline {2.1.2}Caract\'erisations des m\'etaheuristiques}{15}{subsection.2.1.2}
+\contentsline {subsection}{\numberline {2.1.3}Classification des m\'etaheuristiques}{16}{subsection.2.1.3}
+\contentsline {section}{\numberline {2.2}M\'ethodes \`a base d'une seule solution}{16}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}Le Recuit simul\'e}{16}{subsection.2.2.1}
+\contentsline {subsection}{\numberline {2.2.2}La recherche Tabou}{16}{subsection.2.2.2}
+\contentsline {section}{\numberline {2.3}Methodes \`a base de populations de solutions}{16}{section.2.3}
+\contentsline {subsection}{\numberline {2.3.1}Les colonies des fourmis}{16}{subsection.2.3.1}
+\contentsline {subsection}{\numberline {2.3.2}Les algo-g\'en\'etiques}{16}{subsection.2.3.2}
+\contentsline {subsection}{\numberline {2.3.3}L'Optimisation par essaim de particule}{16}{subsection.2.3.3}
+\contentsline {subsection}{\numberline {2.3.4}La recherche dispers\'ee}{16}{subsection.2.3.4}
+\contentsline {section}{\numberline {2.4}Conclusion}{16}{section.2.4}
+\contentsline {chapter}{\numberline {3}Exemples pratiques d'applications}{17}{chapter.3}
+\contentsline {section}{\numberline {3.1}Introduction}{17}{section.3.1}
+\contentsline {section}{\numberline {3.2}Example 1}{17}{section.3.2}
+\contentsline {section}{\numberline {3.3}Example 2}{17}{section.3.3}
+\contentsline {section}{\numberline {3.4}Example 3}{17}{section.3.4}
+\contentsline {section}{\numberline {3.5}Conclusion}{17}{section.3.5}
+\contentsline {starchapter}{Conclusion}{18}{chapter*.13}
+\contentsline {chapter}{References}{19}{chapter*.14}
+\contentsline {starchapter}{Bibliographie}{19}{chapter*.14}

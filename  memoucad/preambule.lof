@@ -1,0 +1,12 @@
+\select@language {french}
+\addvspace {10\p@ }
+\contentsline {xchapter}{Les m\'ethodes de r\'esolution exactes et heuristiques}{3}{chapter.1}
+\contentsline {figure}{\numberline {1.1}{\ignorespaces Arbre engendr\'e par d\'ecomposition d'un probl\`eme}}{6}{figure.1.1}
+\contentsline {figure}{\numberline {1.2}{\ignorespaces Structure de la methode de Gomory, (cf support de cours: PE, p.164) }}{8}{figure.1.2}
+\contentsline {figure}{\numberline {1.3}{\ignorespaces Leture du PL au format ``.lp'' par Cplex.}}{10}{figure.1.3}
+\contentsline {figure}{\numberline {1.4}{\ignorespaces Details de r\'esolution et affichage du r\'esultat.}}{11}{figure.1.4}
+\contentsline {figure}{\numberline {1.5}{\ignorespaces Blocage de la descente recursive par un minimum local.}}{13}{figure.1.5}
+\addvspace {10\p@ }
+\contentsline {xchapter}{Les m\'etaheuristiques}{14}{chapter.2}
+\addvspace {10\p@ }
+\contentsline {xchapter}{Exemples pratiques d'applications}{17}{chapter.3}

@@ -1,0 +1,39 @@
+\BOOKMARK [0][-]{chapter*.1}{D\351dicaces}{}% 1
+\BOOKMARK [0][-]{chapter*.2}{Remerciements}{}% 2
+\BOOKMARK [0][-]{chapter*.3}{R\351sum\351}{}% 3
+\BOOKMARK [0][-]{chapter*.4}{Abstract}{}% 4
+\BOOKMARK [0][-]{chapter*.8}{Introduction g\351n\351rale}{}% 5
+\BOOKMARK [0][-]{chapter.1}{Les m\351thodes de r\351solution exactes et heuristiques}{}% 6
+\BOOKMARK [1][-]{section.1.1}{Introduction}{chapter.1}% 7
+\BOOKMARK [1][-]{section.1.2}{Notions de compl\351xit\351}{chapter.1}% 8
+\BOOKMARK [1][-]{section.1.3}{Les m\351thodes exactes}{chapter.1}% 9
+\BOOKMARK [2][-]{subsection.1.3.1}{La m\351thode du Simplexe}{section.1.3}% 10
+\BOOKMARK [2][-]{subsection.1.3.2}{La M\351thode de S\351paration et d'Evaluation}{section.1.3}% 11
+\BOOKMARK [2][-]{subsection.1.3.3}{Methode des coupes planes \(cutting planes m\351thod\)}{section.1.3}% 12
+\BOOKMARK [2][-]{subsection.1.3.4}{La m\351thode de Branch \046 Cut}{section.1.3}% 13
+\BOOKMARK [1][-]{section.1.4}{Les heuristiques}{chapter.1}% 14
+\BOOKMARK [2][-]{subsection.1.4.1}{La descente recursive \(recherche locale\)}{section.1.4}% 15
+\BOOKMARK [1][-]{section.1.5}{Conclusion}{chapter.1}% 16
+\BOOKMARK [0][-]{chapter.2}{Les m\351taheuristiques}{}% 17
+\BOOKMARK [1][-]{section.2.1}{Introduction}{chapter.2}% 18
+\BOOKMARK [2][-]{subsection.2.1.1}{D\351finitions}{section.2.1}% 19
+\BOOKMARK [2][-]{subsection.2.1.2}{Caract\351risations des m\351taheuristiques}{section.2.1}% 20
+\BOOKMARK [2][-]{subsection.2.1.3}{Classification des m\351taheuristiques}{section.2.1}% 21
+\BOOKMARK [1][-]{section.2.2}{M\351thodes \340 base d'une seule solution}{chapter.2}% 22
+\BOOKMARK [2][-]{subsection.2.2.1}{Le Recuit simul\351}{section.2.2}% 23
+\BOOKMARK [2][-]{subsection.2.2.2}{La recherche Tabou}{section.2.2}% 24
+\BOOKMARK [1][-]{section.2.3}{Methodes \340 base de populations de solutions}{chapter.2}% 25
+\BOOKMARK [2][-]{subsection.2.3.1}{Les colonies des fourmis}{section.2.3}% 26
+\BOOKMARK [2][-]{subsection.2.3.2}{Les algo-g\351n\351tiques}{section.2.3}% 27
+\BOOKMARK [2][-]{subsection.2.3.3}{L'Optimisation par essaim de particule}{section.2.3}% 28
+\BOOKMARK [2][-]{subsection.2.3.4}{La recherche dispers\351e}{section.2.3}% 29
+\BOOKMARK [1][-]{section.2.4}{Conclusion}{chapter.2}% 30
+\BOOKMARK [0][-]{chapter.3}{Exemples pratiques d'applications}{}% 31
+\BOOKMARK [1][-]{section.3.1}{Introduction}{chapter.3}% 32
+\BOOKMARK [1][-]{section.3.2}{Example 1}{chapter.3}% 33
+\BOOKMARK [1][-]{section.3.3}{Example 2}{chapter.3}% 34
+\BOOKMARK [1][-]{section.3.4}{Example 3}{chapter.3}% 35
+\BOOKMARK [1][-]{section.3.5}{Conclusion}{chapter.3}% 36
+\BOOKMARK [0][-]{chapter*.13}{Conclusion}{}% 37
+\BOOKMARK [0][-]{chapter*.14}{References}{}% 38
+\BOOKMARK [0][-]{chapter*.14}{Bibliographie}{}% 39
